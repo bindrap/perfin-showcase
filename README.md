@@ -43,6 +43,9 @@ Personal finance and health dashboard — full-stack web app built in Python (Fl
 ### Portfolio — Weekly View
 ![Portfolio Weekly](screenshots/portfolio_weekly.png)
 
+### Health — Daily
+![Health Daily](screenshots/health_daily.png)
+
 ### Health — Weekly
 ![Health Weekly](screenshots/health_weekly.png)
 
